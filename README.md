@@ -24,7 +24,7 @@ My current side project, in collaboration with philosophers, is to **adapt exten
 | **Quantitative Finance** | Financial Derivatives • Market Microstructure • Macroeconomics      |
 | **Machine Learning** | Deep Learning • Reinforcement Learning                              |
 | **Mathematical Foundations**| Functional Analysis • Stochastic Analysis                           |
-｜   **Programming** ｜ Python • HPC • Abstract Programming｜
+｜  **Programming**  | Python • HPC • Abstract Programming |
 
 
 
