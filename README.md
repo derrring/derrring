@@ -24,14 +24,14 @@ My current side project, in collaboration with philosophers, is to **adapt exten
 | **Quantitative Finance** | Financial Derivatives • Market Microstructure • Macroeconomics      |
 | **Machine Learning** | Deep Learning • Reinforcement Learning                              |
 | **Mathematical Foundations**| Functional Analysis • Stochastic Analysis                           |
+｜   **Programming** ｜ Python • HPC • Abstract Programming｜
 
 
-### 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new ideas at the intersection of mathematics, ethics, and technology. Feel free to reach out!
+I'm always open to discussing new ideas at the intersection of mathematics, ethics, finance and economics. Feel free to reach out!
 
