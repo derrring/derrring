@@ -12,7 +12,7 @@ My work is centered on **Mean Field Games (MFG)**, a field that combines insight
 
 ##  The Humanist Connection
 
-I believe mathematics can be a powerful lens for exploring classical questions in ethics. I draw inspiration from **ancient philosophy** to ask how we can design systems that promote collective well-being.
+I believe mathematics can be a powerful lens for exploring classical questions in ethics. I draw inspiration from **philosophy** to ask how we can design systems that promote collective well-being.
 
 My current side project, in collaboration with philosophers, is to **adapt extended utilitarianism into mean field game frameworks**. The goal is to build models that can explore the consequences of different ethical assumptions on a societal scale.
 
