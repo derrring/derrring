@@ -6,11 +6,11 @@ A mathematician fascinated by the dynamics of strategic decision-making in large
 ##  My Research: Mean Field Games
 
 $$
-\begin{dcases}
+\begin{cases}
     -\frac{\partial u}{\partial t} - \nu\Delta u + H(x,m(t,x),\nabla u(t,x)) = 0 & \text{in} \quad [0,T)\times\mathcal{X} \\
     \frac{\partial m}{\partial t} - \nu\Delta m - \mathrm{div}\left[m(t,\cdot)\partial_p H(\cdot,m(t,\cdot),\nabla u(t,\cdot)) \right] = 0 & \text{in} \quad (0,T]\times\mathcal{X} \\
     u(T,x) = G(x,m(T,x)), \quad m(0,x) = m_0(x) & \text{in} \quad \mathcal{X} 
-\end{dcases}
+\end{cases}
 $$
 
 My work is centered on **Mean Field Games (MFG)**, a field that combines insights from:
