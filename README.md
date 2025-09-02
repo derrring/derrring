@@ -20,11 +20,11 @@ My current side project, in collaboration with philosophers, is to **adapt exten
 
 | Category                  | Topics                                                              |
 | ------------------------- | ------------------------------------------------------------------- |
-| **Numerical & Algorithmic** | Numerical Methods • Optimization                                    |
 | **Quantitative Finance** | Financial Derivatives • Market Microstructure • Macroeconomics      |
+| **Numerical & Algorithmic** | Structure-Preserving Methods • Optimization                                    |
 | **Machine Learning** | Deep Learning • Reinforcement Learning                              |
-| **Mathematical Foundations**| Functional Analysis • Stochastic Analysis                           |
-｜  **Programming**  | Python • HPC • Abstract Programming |
+| **Mathematical Foundations**| Functional Analysis • Stochastic Analysis • Algebra                         |
+| **Programming**  | Python • HPC • Abstract Programming |
 
 
 
