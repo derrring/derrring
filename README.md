@@ -24,7 +24,7 @@ My current side project, in collaboration with philosophers, is to **adapt exten
 | **Numerical & Algorithmic** | Structure-Preserving Methods • Optimization                                    |
 | **Machine Learning** | Deep Learning • Reinforcement Learning                              |
 | **Mathematical Foundations**| Functional Analysis • Stochastic Analysis • Algebra                         |
-| **Programming**  | Python • HPC • Abstract Programming |
+| **Programming**  | Python • Rust • HPC • Abstract Programming |
 
 
 ## Let's Connect
